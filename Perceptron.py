@@ -1,5 +1,7 @@
-# -*- coding:utf-8 -*-
-__author__ = 'zhangsheng'
+#!/usr/bin/env python
+# -*- coding: utf8 -*-
+# Author: Zhang Sheng
+# Time: 2017/05/27 15:29
 
 import numpy as np
 from matplotlib.colors import ListedColormap

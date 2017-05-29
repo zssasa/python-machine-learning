@@ -1,0 +1,12 @@
+
+*.ipynb_checkpoints
+__pycache__
+*.dot
+tree.png
+*.gz
+aclImdb
+mnist
+movie_data.csv
+movieclassifier
+1st_flask_app_1
+1st_flask_app_2
